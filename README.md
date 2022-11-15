@@ -1,2 +1,0 @@
-# WebXRWeekly
-Weekly WebXR Demo
